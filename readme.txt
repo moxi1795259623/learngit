@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple
 switch commit
 bug1
 bug2
+develop branch
